@@ -162,184 +162,184 @@
     <string name="yes">Sì</string>
     <string name="no">No</string>
     <string name="Tutorial">Tutorial</string>
-    <string name="GoToTutorial">The tutorial on how to play is on the website PlayGo.to and requires a flash player. \n 
-Do you want to start a browser and go there.</string>
-	<string name="SupportApp">Support anDGS</string>
-	<string name="SetPreference">Set Preference</string>
-	<string name="guessmove">guess move</string>
-	<string name="correct">correct</string>
-	<string name="incorrect">incorrect</string>
-	<string name="next">Continue</string>
-	<string name="start">Start</string>
-	<string name="EmptyStatus">No waiting messages or games</string>
-	<string name="Failed">Connection Failed, result:</string>
-	<string name="Comment">Comment</string>
-	<string name="EditComment">Enter or edit your comment</string>
-	<string name="inviteTitle">Invite a user to a game</string>
-	<string name="DownloadOrInvite">Download, Invite or Message</string>
-	<string name="InviteUser">Invite User</string>
-	<string name="MessageUser">Message User</string>
-	<string name="runningGames">Running Games</string>
-	<string name="teamGames">Team Games</string>
-	<string name="finishedGames">Finished Games</string>
-	<string name="NoGames">No Games in list</string>
-	<string name="selectBoardSize">Board Size:</string>
-	<string name="selectGameType">Game Type:</string>
-	<string name="selectYourColor">Your Color:</string>
+    <string name="GoToTutorial">Il tutorial per iparare a giocare a Go che è sul sito web PlayGo.to richiede il flash player. \n 
+Vuoi passare al browser?</string>
+	<string name="SupportApp">Supporta anDGS</string>
+	<string name="SetPreference">Imposta le Preferenze</string>
+	<string name="guessmove">indovina la mossa</string>
+	<string name="correct">giusta</string>
+	<string name="incorrect">errata</string>
+	<string name="next">Continua</string>
+	<string name="start">Inizio</string>
+	<string name="EmptyStatus">Nessun messaggio in attesa né partite</string>
+	<string name="Failed">Connessione Fallita, messaggio di errore:</string>
+	<string name="Comment">Commento</string>
+	<string name="EditComment">Inserisci o modifica il tuo commento</string>
+	<string name="inviteTitle">Invita un altro giocatore a fare una partita</string>
+	<string name="DownloadOrInvite">Scarica, Invita o Scrivi un Messaggio</string>
+	<string name="InviteUser">Invita un Giocatore</string>
+	<string name="MessageUser">Invia un Messaggio</string>
+	<string name="runningGames">Partite in corso</string>
+	<string name="teamGames">Partite in squadra</string>
+	<string name="finishedGames">Partite terminate</string>
+	<string name="NoGames">Nessuna Partita in elenco</string>
+	<string name="selectBoardSize">Dimensione goban:</string>
+	<string name="selectGameType">Tipo di partita:</string>
+	<string name="selectYourColor">Il tuo Colore:</string>
 	<string name="selectHandicap">Handicap:</string>
 	<string name="specifyKomi">Komi:</string>
-	<string name="specifyMainTime">Main Time:</string>
-	<string name="selectMainTimeUnits">Main Time Units:</string>
-	<string name="specifyFischerTime">Fischer Time:</string>
-	<string name="selectFisherTimeUnits">Fisher Time Units:</string>
-	<string name="weekendClock">Weekend Clock:</string>
-	<string name="ratedGame">Rated Game:</string>
-	<string name="toUserId">To UserId:</string>
-	<string name="toUid">To Uid:</string>
-	<string name="messageId">Message Id:</string>
-	<string name="message">Message:</string>
-	<string name="conventionalGame">Conventional</string>
-	<string name="properGame">Proper</string>
-	<string name="manualGame">Manual</string>
-	<string name="doubleGame">Double</string>
-	<string name="evenGame">Even</string>
-	<string name="hours">Hours</string>
-	<string name="days">Days</string>
-	<string name="months">Months</string>
-	<string name="submit">Submit</string>
-	<string name="messageTitle">Send a message to a user</string>
-	<string name="Subject">Subject:</string>
-	<string name="From">From:</string>
-	<string name="send">Send</string>
-	<string name="sending">Sending&#8230;</string>
+	<string name="specifyMainTime">Tempo principale:</string>
+	<string name="selectMainTimeUnits">Unità di tempo principale:</string>
+	<string name="specifyFischerTime">Tempo Fischer:</string>
+	<string name="selectFisherTimeUnits">Unità di tempo Fisher:</string>
+	<string name="weekendClock">Orologio attivo nel fine settimana:</string>
+	<string name="ratedGame">Partita Classificata:</string>
+	<string name="toUserId">A UserId:</string>
+	<string name="toUid">A Uid:</string>
+	<string name="messageId">Id del Messaggio:</string>
+	<string name="message">Messaggio:</string>
+	<string name="conventionalGame">Convenzionale</string>
+	<string name="properGame">Accurato</string>
+	<string name="manualGame">Manuale</string>
+	<string name="doubleGame">Doppia</string>
+	<string name="evenGame">Alla pari</string>
+	<string name="hours">Ore</string>
+	<string name="days">Giorni</string>
+	<string name="months">Mesi</string>
+	<string name="submit">Invia</string>
+	<string name="messageTitle">Invia un messaggio a un utente</string>
+	<string name="Subject">Oggetto:</string>
+	<string name="From">Da:</string>
+	<string name="send">Invia</string>
+	<string name="sending">Invio in corso&#8230;</string>
 	<string name="oneTouch">One Touch</string>
-	<string name="BoardCoordinates">Coordinates</string>
-	<string name="defaultEditMode">Default Edit Mode</string>
-	<string name="observedGames">Observed Games</string>
-	<string name="captured">Captured</string>
-	<string name="KeepScreenOn">Keep Screen On</string>
-	<string name="DefaultDir">Default SGF Directory</string>
-	<string name="selectTheme">Select Theme</string>
-	<string name="BlackOnWhite">Black on White</string>
-	<string name="WhiteOnBlack">White on Black</string>
-	<string name="BlueOnWhite">Blue on White</string>
-	<string name="MetallicGrey">Metallic Grey</string>
+	<string name="BoardCoordinates">Coordinate</string>
+	<string name="defaultEditMode">Modalità di Edit predefinita</string>
+	<string name="observedGames">Partite Osservate</string>
+	<string name="captured">Catturate</string>
+	<string name="KeepScreenOn">Mantieni lo schermo acceso</string>
+	<string name="DefaultDir">Directory SGF predefinita</string>
+	<string name="selectTheme">Seleziona il Tema</string>
+	<string name="BlackOnWhite">Nero su Bianco</string>
+	<string name="WhiteOnBlack">Bianco su Nero</string>
+	<string name="BlueOnWhite">Blu su Bianco</string>
+	<string name="MetallicGrey">Grigio Metallico</string>
 	<string name="play">play</string>
 	<string name="all">all</string>
-	<string name="SetValue">Set Value</string>
-	<string name="prefsEditNumPrev">Edit, \nnumber previous moves count</string>
-	<string name="prefsPlayNumPrev">Play, \nnumber previous moves count</string>
-	<string name="reply">Reply</string>
-	<string name="Info">User Info</string>
-	<string name="DeleteCurrentMove">Delete current move</string>
-	<string name="InsertBlackMove">Insert Black move</string>
-	<string name="InsertWhiteMove">Insert White move</string>
-	<string name="Warning">Warning</string>
-	<string name="DeleteManyBranches">There are other branches that will be lost, continue?</string>
-	<string name="BoardBackground">Board Background</string>
-	<string name="Plain">Plain</string>
-	<string name="Wood">Wood</string>
-	<string name="prefsSkipMoves">Skip moves count</string> 
-	<string name="EditDisplayTopMenu">Edit, Display Top Menu</string>
-	<string name="PlayDisplayTopMenu">Play, Display Top Menu</string>
+	<string name="SetValue">Imposta il valore</string>
+	<string name="prefsEditNumPrev">Edit, \nnumera quante mosse precedenti</string>
+	<string name="prefsPlayNumPrev">Play, \nnumera quante mosse precedenti</string>
+	<string name="reply">Riproduci</string>
+	<string name="Info">Informazioni Utente</string>
+	<string name="DeleteCurrentMove">Elimina la mossa corrente</string>
+	<string name="InsertBlackMove">Inserisci mossa di Nero</string>
+	<string name="InsertWhiteMove">Inserisci mossa di Bianco</string>
+	<string name="Warning">Attenzione</string>
+	<string name="DeleteManyBranches">Ci sono altri rami che verranno perso, continuare?</string>
+	<string name="BoardBackground">Sfondo del goban</string>
+	<string name="Plain">Semplice</string>
+	<string name="Wood">Legno</string>
+	<string name="prefsSkipMoves">Salto di quante mosse</string> 
+	<string name="EditDisplayTopMenu">Edit, Visulizza il menu in alto</string>
+	<string name="PlayDisplayTopMenu">Play, Visualizza il menu in alto</string>
 	<string name="QMark">"?"</string>
-	<string name="selectLocale">Language</string>
+	<string name="selectLocale">Lingua</string>
 	
-	<string name="HandicapToSet">Handicap to set</string>
-	<string name="HandicapFree">Free placement</string>
-	<string name="EndGame">End Game</string>
-	<string name="gameListOrder">Game List Order</string>
-	<string name="statusPage">Status Page</string>
-	<string name="noOrder">No Order</string>
-	<string name="lastMoved">Last Moved</string>
-	<string name="moves">Number of Moves</string>
-	<string name="priority">Priority</string>
-	<string name="timeLeft">Time Left</string>
-	<string name="Browser">Use Browser</string>
-	<string name="GameNotes">Game Notes</string>
-	<string name="Score">Score</string>
-	<string name="FinishScore">Finish Scoring</string>
-	<string name="MarkScore">Mark Score</string>
-	<string name="AcceptScore">Accept Score</string>
-	<string name="ResumePlaying">Resume Playing</string>
-	<string name="Delete">Delete</string>
-	<string name="ResignDelete">Resign Delete</string>
-	<string name="GettingList">Getting List&#8230;</string>
-	<string name="JoiningGame">Joining Game&#8230;</string>
-	<string name="waitingRoom">Waiting Room</string>
-	<string name="JoinGame">Join Game</string>
-	<string name="accept">Accept</string>
-	<string name="decline">Decline</string>
-	<string name="Logon">Log on</string>
-	<string name="WhiteOnGreen">White on Green</string>
-	<string name="Slide">Slide Stone</string>
+	<string name="HandicapToSet">Handicap da impostare</string>
+	<string name="HandicapFree">Posizionamento libero</string>
+	<string name="EndGame">Fine Partita</string>
+	<string name="gameListOrder">Ordinamento elenco partite</string>
+	<string name="statusPage">Pagina di Stato</string>
+	<string name="noOrder">Nessun Ordinamento</string>
+	<string name="lastMoved">Ultima Mossa</string>
+	<string name="moves">Numero di mosse</string>
+	<string name="priority">Priorità</string>
+	<string name="timeLeft">Tempo Rimasto</string>
+	<string name="Browser">Usa il Browser</string>
+	<string name="GameNotes">Annotazioni della partita</string>
+	<string name="Score">Punteggio</string>
+	<string name="FinishScore">Completare il calcolo del punteggio</string>
+	<string name="MarkScore">Segna il Punteggio</string>
+	<string name="AcceptScore">Accetta il Punteggio</string>
+	<string name="ResumePlaying">Riprendi a Giocare</string>
+	<string name="Delete">Elimina</string>
+	<string name="ResignDelete">Elimina Abbandono</string>
+	<string name="GettingList">Ottenimento Elenco&#8230;</string>
+	<string name="JoiningGame">Collegamento alla Partita&#8230;</string>
+	<string name="waitingRoom">Sala di attesa</string>
+	<string name="JoinGame">Collegarsi alla Partita</string>
+	<string name="accept">Accetta</string>
+	<string name="decline">Declina</string>
+	<string name="Logon">Accedi</string>
+	<string name="WhiteOnGreen">Bianco su Verde</string>
+	<string name="Slide">Pietra che scivola</string>
 	
-    <string name="HelpMain">DGS Client - log on to DGS on the website DragonGoServer.net and play or download games. \n 
+    <string name="HelpMain">Client DGS - accedi a DGS sul sito web DragonGoServer.net e gioca o scarica delle partite. \n 
 \n 
-Saved Game Files - open for view or edit from a list of saved local games. \n 
+File di partite salvate - apri per visualizzare e modificare da un elenco di partite salvate in locale. \n 
 \n 
-New Game - create a new local game. \n 
+Nuova partita - crea una nuova partita in locale. \n 
 \n 
-Review Games - sequence through game records (single file or a directory of files) and either automatically play each move or allow guessing of the next move. \n 
+Rivedi partite - ripercorri le fasi delle partite registrate (un singolo file o una directory di file), e a scelta riproduci le mosse in modo automatico, oppure cerca di indovinare la mossa successiva. \n 
 \n 
-Recover Game - appears when a local game has unsaved changes. \n 
+Recupera partita - da usare quando una partita in locale ha delle modifiche non salvate. \n 
 \n 
-Preferences - (Android menu) set the DGS user and password as well as other parameters and preferences. \n 
+Preferenze - (menu Android) imposta il nome dell'utente DGS e la password, così come altri parametri e preferenze. \n 
 \n 
-Start/Stop Notifier - (Android menu) start or stop the DGS Notifier service. \n 
+Avvio/Arresto delle Notifiche - (menu Android) avvia o arresta il servizio di notifica DGS. \n 
 \n 
-Tutorial - (Android menu) How to play for beginners. Links to PlayGo.to which requires an installed flash player \n 
+Tutorial - (menu Android) Iniziare a giocare da principiante. Collegamento a PlayGo.to che richiede l'installazione di flash player \n 
 \n 
-Open/Download - (External) Opening a SGF file in an external file browser will open it in the game editor. An SGF link in a web browser will either be downloaded by the browser where you may open it in the game editor, just like other SGF files or it will open directly in the game editor, depending on the web browser and configuration of the web site.  \n 
+Apri/Scarica - (Esterno) Aprendo un file SGF in un visualizzatore di file esterno si aprirà nell'editor delle partite. Un link a un file SGF nel browser web verrà scaricato dal browser e da lì potrai aprirlo nell'editor delle partite, proprio come gli altri file SGF, o altrimenti si aprirà direttamente nell'editor, a seconda del browser e della configurazione del sito web.  \n 
 </string>
   
-    <string name="HelpPrefs">Set the parameters and preferences for anDGS, use the Save button to save changes or the standard back button to ignore changes. \n 
+    <string name="HelpPrefs">Imposta i parametri e le preferenze per anDGS, usa il bottone Salva per salvare le modifiche o il bottone standard indietro per ignorare le modifiche. \n 
 \n 
-User and Password - used to login to DragonGoServer.net. \n 
+Utente e Password - credenziali per accedere a DragonGoServer.net. \n 
 \n 
-Auto Client - enable DGS Client to automatically logon and sequence through the waiting games. \n 
+Client automatico - abilita DGS Client ad autenticarsi automaticamente e percorrere in sequenza le partite in attesa di una mossa. \n 
 \n 
-Keep Screen On - Keep the screen on while a game is being displayed. \n 
+Mantieni acceso lo schermo - Mantiene acceso lo schermo quando una partita viene visualizzata. \n 
 \n 
-Select Layout - Set screen layout. Options: \n
- - Portrait \n
- - Landscape \n 
+Seleziona il Layout - Seleziona il layout dello schermo. Opzioni: \n
+ - verticale \n
+ - orizzontale \n 
 \n 
-Move Control - Controls making moves. Options: \n
+Controllo Mossa - Controlla il modo di fare le mosse. Opzioni: \n
  - 7x7 zoom \n
  - 9x9 zoom \n
  - 11x11 zoom \n
  - 13x13 zoom \n
- - D-Pad (directional key pad) \n
+ - D-Pad (key pad direzionale) \n
  - One touch \n 
 \n
-Select Theme - Select the color theme for the app. \n 
+Seleziona il Tema - Seleziona il tema di colori per la app. \n 
 \n
-Language - Select the Language used for the app. \n 
+Lingua - Seleziona la Lingua usata per la app. \n 
 \n
-Coordinates - Controls which views display coordinates around the edge of the board. \n 
+Coordinate - Controlla se visualizzare le coordinate ai bordi del goban. \n 
 \n 
-Board Background - Sets the Edit/Play Board background. Options: \n
- - "White" color \n
- - "Plain" color \n
- - "Wood" texture \n
- - "Custom" user setable color \n
+Sfondo del Goban - Imposta lo sfondo del Goban. Opzioni: \n
+ - colore "Bianco" \n
+ - colore "Semplice" \n
+ - tessitura "Legno" \n
+ - colori a scelta dell'utente "Personalizzato" \n
 \n 
-Line Width - Adjust the line with on the board. 1.0 is default, 2.0 is double width, 0.5 is half width. \n 
+Spessore Linea - Regola lo spessore della linea sul goban. 1.0 è il valore predefinito, 2.0 è il doppio, 0.5 la metà. \n 
 \n 
-Stone - Sets the Edit/Play Board stone type. Options: \n
- - "Monochrome", simple black and white \n
- - "Clam Shell", slate and clam shell texture \n
+Pietra - Imposta il tipo di pietra. Opzioni: \n
+ - "Monocromaico", semplice bianco e nero \n
+ - "Conchiglia", tessitura in ardesia e conchiglia \n
 \n 
-Default Edit Mode - Controls the initial edit mode for games started by the Saved Games view. \n 
+Modalità di Edit Predefinita - Controlla la modalità iniziale di edit per le partite quando si accede dalla vista delle Partite Salvate. \n 
 \n
-Game List Order - Allows sorting of the games in the status list which will also control the order games are presented by Auto Client of Check for Moves. \n 
- - Status Page - the order selected for your Status page using a Browser. \n
- - No Order - the most efficient access to the DGS database, no predictable order. \n
- - Last Moved - sorted by opponents last moved times. \n
- - Number of Moves - sorted by number of moves in the game. \n
- - Priority - sorted by user defined priority. \n
- - Time Left - sorted by the time remaining in the game. \n
+Ordinamento dell'elenco delle partite - Consente di orinare le partite nell'elenco che determina la sequenza in cui sono presentate dal Client automaticamente per fare le mosse. \n 
+ - Pagina di Stato - l'ordinamento è quello della pagina di stato come viene visualizzata nel browser. \n
+ - Nessun Ordinamento - è l'accesso più efficiente al database, l'ordinamento non è prevedibile. \n
+ - Ultima mossa - ordinate in base al tempo in cui l'avversario ha giocato l'ultima mossa. \n
+ - Numero di mosse - ordinate in base al numero di mosse della partita. \n
+ - Priorità - ordinate in base alla priorità definita dall'utente. \n
+ - Tempo rimasto - ordinate in base al tempo rimasto per la partita. \n
 \n
 Skip moves count - In the editor, set the number moves to skip forward/backward for a short press of the FF/Rew buttons. Minimum is 2. \n
 \n 
